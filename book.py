@@ -1,6 +1,3 @@
-"""
-book.py - Book, PhysicalBook, and DigitalBook classes
-"""
 
 
 class Book:

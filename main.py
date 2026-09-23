@@ -1,6 +1,4 @@
-"""
-main.py - CLI menu for the Library Management System
-"""
+
 
 from book import PhysicalBook, DigitalBook
 from member import Member

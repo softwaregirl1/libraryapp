@@ -1,7 +1,3 @@
-"""
-library.py - Library class: manages the book catalog and members
-"""
-
 
 class Library:
     def __init__(self, name: str):
